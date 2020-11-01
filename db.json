@@ -1,0 +1,70 @@
+        {
+            "CoveredAll":[
+                        {
+                            "Facilities":"Power backup",
+                            "Desciption":"This is non-negotiable, especially if you live in a city known for frequent power outages. Some localities are prone to power cuts, you should ensure that the home you are buying comes with power backup.",
+                            "Status":"Covered"
+
+                        },
+
+                        {
+                            "Facilities":"Lifts",
+                            "Desciption":"With space becoming scarce in cities, high-rise apartments are common. Providing lifts in apartment blocks is a necessity. If it is a large apartment complex, ensure there is more than one lift and that they have power backup as well.",
+                            "Status":"Covered"
+                            
+                    },
+                    {
+                        "Facilities":"Water supply",
+                        "Desciption":"Water scarcity is becoming more prevalent in metropolitan cities. You can avoid future hassles by checking if there is 24/7 water supply in the apartment block. You could also take the extra care to check the quality of water received.",
+                        "Status":"Covered"
+
+                    },
+
+                    {
+                        "Facilities":"Security services",
+                        "Desciption":"Basic security provisions are a must in every apartment block. Regardless of whether it is round-the-clock security personnel or automated security devices, an unsecured apartment block is a bad choice of investment.",
+                        "Status":"Covered"
+                        
+                } ,{
+                    "Facilities":"Parking space",
+                    "Desciption":"This one is pretty high on apartment buyers’ lists of requirements. Buying a home that does not come with parking space results in years of hassles with respect to finding parking space. Remember, covered spaces are ideal.",
+                    "Status":"Covered"
+
+                },
+
+                {
+                    "Facilities":"Recreational facilities",
+                    "Desciption":"As requirements of urban dwellers increase, apartments must necessarily offer recreational facilities within premises. This could include play area for kids, gymnasiums, swimming pools or tennis courts. Adequate maintenance of these facilities is also an important factor to look for.",
+                    "Status":"Covered"
+                    
+            }  ,
+            {
+                "Facilities":"Access to common spaces",
+                "Desciption":"As an apartment owner, you are entitled to have access to common spaces like terrace, function halls and so on. Before agreeing to the purchase, seek to understand the terms of access to ensure you receive what is rightfully yours.",
+                "Status":"Covered"
+
+            },
+
+            {
+                "Facilities":"Waste disposal",
+                "Desciption":"It’s wise to check on waste disposal methods followed in your apartment complex. If your city has regulations with respect to segregation and disposal of waste, check if the apartment has a system to ensure the same is carried out.",
+                "Status":"Covered"
+                
+        },
+        
+        {
+            "Facilities":"Vastu-compliant designs",
+            "Desciption":"To many buyers, a Vastu compliant apartment design is very important.Apart from religious reasons, Vastu or Feng Shui are based on science and practicality. For instance, an East-facing apartment will allow adequate light and ventilation. Consider enquiring about the same before you buy a home.",
+            "Status":"Covered"
+
+        },
+
+        {
+            "Facilities":"Ventilation",
+            "Desciption":"Finding adequate space is becoming increasingly challenging in metropolitan cities. Very often, one can find buildings that are only 4 or 5 feet apart.",
+            "Status":"Covered"
+            
+    }    
+
+            ]
+        }
